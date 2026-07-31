@@ -1,0 +1,11 @@
+# Ignore compiled Java class files
+*.class
+
+# Ignore IDE artifacts
+.project
+.classpath
+.settings/
+.idea/
+*.iml
+out/
+bin/
